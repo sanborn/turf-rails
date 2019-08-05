@@ -1,5 +1,5 @@
 module Turf
   module Rails
-    VERSION = "0.1.0"
+    VERSION = "5.1.6"
   end
 end
