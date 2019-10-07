@@ -1,8 +1,7 @@
-# Turf::Rails
+# turf-rails
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/turf/rails`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This uses the Rails asset pipeline to load the Turf.js javascript library (http://turfjs.org/). Currently
+loads version 5.1.6 of Turf.js.
 
 ## Installation
 
