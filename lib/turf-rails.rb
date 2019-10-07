@@ -1,4 +1,4 @@
-require "turf/rails/version"
+require "turf-rails/version"
 
 module Turf
   module Rails
